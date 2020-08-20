@@ -18,7 +18,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="mailto:guandexis@gmail.com"><img alt="Email" src="https://img.shields.io/badge/guandexis@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
