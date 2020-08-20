@@ -6,11 +6,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript | VueJS  | Node.js | ReactJS
+- 💻 &nbsp; PHP | Node.js | Python
+- 🌐 &nbsp; HTML | CSS | JavaScript | VueJS | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; VSCode | XCode| Photoshop 
 
 <br/>
 
