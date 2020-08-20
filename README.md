@@ -19,7 +19,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:guandexis@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:guandexis@gmail.com"><img alt="Email" src="https://img.shields.io/badge/guandexis@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [MontageD](https://github.com/MontageD)
