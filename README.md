@@ -8,9 +8,6 @@
 
 - 💻 &nbsp; PHP | Node.js | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript | VueJS | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown
-- 🖥 &nbsp; VSCode | XCode| Photoshop 
 
 <br/>
 
